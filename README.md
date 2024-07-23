@@ -1,2 +1,1 @@
-# prepcourse-henry-
-repositorio de prueba Prepcourse henry
+este es un proyecto de prueba para clonar un repositorio desde githbu y clonarlo a mi escritorio local
